@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: データサイエンス J26
+  toc:
+    - file: index.md
+    - file: lesson-01.md
+      children:
+        - title: 演習ノートブック
+          file: exercises.ipynb
+        - title: 発展ノート：Gaussian Naive Bayes
+          file: pymc-iris.ipynb
+    - file: lesson-02.md
+site:
+  template: book-theme

@@ -1,0 +1,6 @@
+.venv/
+_build/
+.myst/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
