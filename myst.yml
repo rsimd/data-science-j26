@@ -9,6 +9,6 @@ project:
           file: exercises.ipynb
         - title: 発展ノート：Gaussian Naive Bayes
           file: pymc-iris.ipynb
-    - file: lesson-02.md
+    - file: lesson-02.ipynb
 site:
   template: book-theme
